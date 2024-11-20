@@ -6,6 +6,7 @@
   </ul>
 </div>
 
+<!---
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
@@ -13,3 +14,4 @@
     </summary>
   </ul>
 </div>
+-->
